@@ -12,9 +12,5 @@ author_profile: true
 
 
 ## Manuscripts in preparation
- 
-- Constructing optimal interaction distance by combining others’ and one’s own using medial frontal cortex
-- Towards the "Real" or "Natural" social neuroscience: recent advances, new tools and future directions
-- Dissecting social brain contributions to dishonesty adaptation and consistency considerations.
 
 \# These authors contributed equally to this work.<br>
