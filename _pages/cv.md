@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S.S. Department of Psychology, University of Macau, 2024 (Planned)
