@@ -13,4 +13,6 @@ author_profile: true
 
 ## Manuscripts in preparation
 
+- Yu, R., Ao-Ieong W., Wang, R., Wu, H. Social anxiety, mentalzing and real or virtual distances : A priliminary Psychometric Evaluation. <br><br>
+
 \# These authors contributed equally to this work.<br>
