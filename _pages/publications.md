@@ -8,7 +8,7 @@ author_profile: true
 
 ## Under Review
 
-- **Yu, R.**, Ao-Ieong W., Wang, R., Wu, H. Social anxiety, mentalzing and real or virtual distances : A priliminary Psychometric Evaluation. *Personality and Individual Differences* （IF= 3.95）<br><br>
+- **Yu, R.**, Ao-Ieong W., Wang, R., Wu, H. Social anxiety, mentalzing and real or virtual distances : A priliminary Psychometric Evaluation. *Personality and Individual Differences*。 （IF= 3.95）<br><br>
 
 ## Manuscripts in preparation
 
