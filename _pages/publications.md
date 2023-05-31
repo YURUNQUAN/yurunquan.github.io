@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 - Wang, R., **Yu, R.**, Tian, Y., Wu, H. Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability. *NeuroImage*. <br><br>
+
 ## Under Review
 
 - **Yu, R.**, Ao-Ieong W., Wang, R., Wu, H. Social anxiety, mentalzing and real or virtual distances : A priliminary Psychometric Evaluation. <br><br>
