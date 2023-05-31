@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Wang, R., **Yu, R.**, Tian, Y., Wu, H. Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability. *NeuroImage*. （*IF= 7.40*） <br><br>
+- Wang, R., **Yu, R.**, Tian, Y., Wu, H. Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability. *NeuroImage*. (*IF= 7.40*） <br><br>
 
 ## Under Review
 
