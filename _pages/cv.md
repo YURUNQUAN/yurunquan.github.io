@@ -16,7 +16,9 @@ Education
 Award
 ======
 * Student Scholarship:
-  * 2020/2021 academic year, University of Macau. 
+  * 2020/2021 academic year, University of Macau. (MOP 5000)
+  * 2022/2023 1st semester, Outbound Exchange and Scholarship - Type 2 Academic Excellence Outgoing Exchange Scholarship (UG, China-mainland) (App. No. OES00032), Global Affair Office, University of Macau. (MOP 10,000)
+  * 2022/2023 2nd semester, Smart Point Sponsorship for exchanging National University of Singapore, Student Affair Office, University of Macau. (MOP 11,000) 
 * Student Leadership:
   * 2020/2021 academic year: Whole Person Development Award Program, Bronze Prize.
   * 2020/2021 academic year: Student Assistant, Vice Rector (Student Affair) Office, University of Macau.
