@@ -14,6 +14,6 @@ He plans to focus on human behavioral and neural responses (EEG, EGI, fMRI) in s
 Currently, he is working on several projects including: (1) social navigation domains and fMRI scanning, (2) dealing with EEG data from aging Chinese individuals (microstate) to discuss cognitive deficiency, and (3) investigating psychometric quantitative data analysis about anxious individuals' social interactions.
 
 Contacts:
-Email: SC02303@um.edu.mo; Michael.runquan.yu@connect.um.edu.mo; e1119091@u.nus.edu
-Phone: (65) 83858001; (853) 62743018
+Email: SC02303@um.edu.mo; Michael.runquan.yu@connect.um.edu.mo; e1119091@u.nus.edu\
+Phone: (65) 83858001; (853) 62743018\
 WeChat: 1471709954
