@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Runquan YU"
+title                    : "Runquan Michael YU Website"
 title_separator          : "-"
-name                     : &name "Runquan YU"
+name                     : &name "Home"
 description              : &description "Undergraduate Student in Psychology at University of Macau"
 url                      : "https://yurunquan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Runquan Michael Yu"
   avatar           : "Runquan_Black(B)_White(F).png"
   bio              : "Undergraduate Student in Psychology at University of Macau"
-  location         : 
+  location         : "Taipa, Macao, P.R.China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
