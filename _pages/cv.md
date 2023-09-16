@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S.S. Department of Psychology, University of Macau, 2024 (Planned)
+* B.SoSci Department of Psychology, University of Macau, 2024 (Planned)
 
 Award
 ======
@@ -34,7 +34,13 @@ Award
 
 Research Experience
 ======
-* Certer for Cognitive and Brain Sciences: Undergraduate Student in LAB. (Aug, 2021 - Jun, 2024)
+* Multi-sociocontextual Action and Perception Lab,  Research Assistant. (Mar, 2023 - present)
+  * National University of Singapore (NUS)
+  * Supervisor: Prof. DongWon OH
+* Center for Cognitive and Brain Sciences: Undergraduate Student in LAB. (Aug, 2021 - Jun, 2024)
+  * University of Macau
+  * Supervisor: Prof. Haiyan WU 
+* Center for Cognitive and Brain Sciences: Undergraduate Student in LAB. (Aug, 2021 - Jun, 2024)
   * University of Macau
   * Supervisor: Prof. Haiyan WU 
 
