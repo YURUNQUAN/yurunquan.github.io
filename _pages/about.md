@@ -9,7 +9,7 @@ redirect_from:
 ---
 Runquan is a final-year (4th year) undergraduate student majoring in Psychology at the University of Macau. He has been working at the "Affective, Neuroscience, and Decision-making Lab" (AND LAB) led by Haiyan WU in the Centre for Cognitive and Brain Sciences and Department of Psychology since August 2021. 
 
-Besides, he is the research assistant and graduate student (Fall 2024) at the **Multi-sociocontextual Action and Perception Lab (MAPLAB)** directed by Dr. DongWon OH in the Department of Psychology, Faculty of Social Science at the National University of Singapore.
+Besides, he is the research assistant and graduate student (Fall 2024) at the **Multi-sociocontextual Action and Perception Lab (MAPLAB)** directed by Dr. DongWon OH in the Department of Psychology, Faculty of Arts and Social Sciences at the National University of Singapore.
 
 He plans to focus on human behavioral and neural responses (EEG, EGI, fMRI) in social scenarios, particularly in individuals with anxiety, depression, loneliness, and multiple personalities. His ultimate goal is to become a researcher and help children and young adults struggling with mental health, especially those in vulnerable communities.
 
