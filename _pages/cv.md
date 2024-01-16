@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.SoSci Department of Psychology, University of Macau, 2024 (Planned)
+* B.SocSc Department of Psychology, University of Macau, 2024 (Planned)
 
 Award
 ======
