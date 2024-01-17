@@ -18,3 +18,7 @@ Currently, he is working on several projects, including (1) social navigation do
 **Contact**:\
 Email: Michael.runquan.yu@connect.um.edu.mo;\
 Address: N21-Research Building, Universidade de Macau, Avenida da Universidade, Taipa, Macao, 999078. 
+
+**Cooperators**:\
+- Wang, Ruien: Queens University, Canada
+- Yang, Xiao: Lund University, Sweden
