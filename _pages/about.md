@@ -22,6 +22,6 @@ Address: N21-Research Building, Universidade de Macau, Avenida da Universidade, 
 **Cooperators**:
 - Li, Zhaoning: University of Macau, Macao;
   Website: https://zhaoning.li/
-- Wang, Ruien: Queens University, Canada;
+- Wang, Ruien: Queen's University, Canada;
   Website: https://rainneuro.github.io/
 - Yang, Xiao: Lund University, Sweden
