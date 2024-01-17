@@ -20,7 +20,7 @@ Email: Michael.runquan.yu@connect.um.edu.mo;\
 Address: N21-Research Building, Universidade de Macau, Avenida da Universidade, Taipa, Macao, 999078. 
 
 **Cooperators**:
-- Li, Zhaoning: Sun Yat-Sen University, China;
+- Li, Zhaoning: University of Macau, Macao;
   Website: https://zhaoning.li/
 - Wang, Ruien: Queens University, Canada;
   Website: https://rainneuro.github.io/
