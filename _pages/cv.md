@@ -31,7 +31,6 @@ Award
   * 2021/2022 academic year
   * 2022/2023 academic year
 
-
 Research Experience
 ======
 * Multi-sociocontextual Action and Perception Lab,  Research Assistant. (Mar, 2023 - present)
@@ -39,10 +38,7 @@ Research Experience
   * Supervisor: Prof. DongWon OH
 * Center for Cognitive and Brain Sciences: Undergraduate Student in LAB. (Aug, 2021 - Jun, 2024)
   * University of Macau
-  * Supervisor: Prof. Haiyan WU 
-* Center for Cognitive and Brain Sciences: Undergraduate Student in LAB. (Aug, 2021 - Jun, 2024)
-  * University of Macau
-  * Supervisor: Prof. Haiyan WU 
+  * Supervisor: Prof. Haiyan WU
 
 Research Interest
 ======
@@ -56,7 +52,7 @@ Skills
 * Data Collection:
   * EEG
 * Neuromodulation: 
-  * TDCS
+  * tDCS
 * Data Analysis: 
   * EEG, Multi-modal physiological data
 * Language: Chinese (Native), English (Proficient)
