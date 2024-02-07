@@ -9,6 +9,6 @@ author_profile: true
   
 ## Manuscripts in preparation
 - Peng, A#., **Yu, R.#**, Lai, W., Wu, H., Chen, L. The Disruption of Resting and Task States EEG Connection as an Early Manifestation of Cognitive Decline. (*Under Review by Psychiatry Research*）<br>
-- Wang, R., **Yu, R.**, Wu, H. Neural computation of personal space and its influence on dynamic social navigation.<br><br>
+- Wang, R., **Yu, R.**, Wu, H. Neural computation of personal space and its influence on dynamic social navigation (*Preparing*).<br><br>
 
 \# These authors contributed equally to this work.<br>
