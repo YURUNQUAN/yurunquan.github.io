@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.SocSc (Res), Department of Psychology, National University of Singapore, 2026 (Planned)
+* M.SocSc (MRes), Department of Psychology, National University of Singapore, 2026 (Planned)
 * B.SocSc Department of Psychology, University of Macau, 2024 (Planned)
 
 Award
