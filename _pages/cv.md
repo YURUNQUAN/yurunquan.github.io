@@ -27,12 +27,11 @@ Award
   * 2nd Semester of 2020/2021 academic year
   * 2021/2022 academic year
   * 2022/2023 academic year
-  * For other semesters, 
+  * For other semesters, Because the credits earned in other semesters were less than 15, no credits were obtained.
 * Student Assistant on R-statistics courses for:
   * 2nd Semester of 2020/2021 academic year
   * 2021/2022 academic year
   * 2022/2023 academic year
-  * Because the credits earned in other semesters were less than 15, no credits were obtained.
     
 Research Experience
 ======
