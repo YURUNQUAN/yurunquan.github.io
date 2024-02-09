@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Runquan is a final-year (4th year) undergraduate student majoring in Psychology at the University of Macau. He has been working at the "Affective, Neuroscience, and Decision-making Lab" (AND LAB) led by Haiyan WU in the Centre for Cognitive and Brain Sciences and Department of Psychology since August 2021. 
+Runquan is a final-year (4th year) undergraduate student majoring in Psychology at the University of Macau. He has been working at the "**Affective, Neuroscience, and Decision-making Lab" (AND LAB)** led by Haiyan WU in the Centre for Cognitive and Brain Sciences and Department of Psychology since August 2021. 
 
 Besides, he is the research assistant and graduate student (Fall 2024) at the **Multi-sociocontextual Action and Perception Lab (MAPLAB)** directed by Dr. DongWon OH in the Department of Psychology, Faculty of Arts and Social Sciences at the National University of Singapore.
 
@@ -17,7 +17,7 @@ Currently, he is working on several projects, including (1) social navigation do
 
 **Contact**:\
 Email: Michael.runquan.yu@connect.um.edu.mo;\
-Address: N21-Research Building, Universidade de Macau, Avenida da Universidade, Taipa, Macao, 999078. 
+Address: N21-Research Building, Universidade de Macau (University of Macau), Avenida da Universidade, Taipa, Macao, 999078. 
 
 **Cooperators**:
 - Li, Zhaoning: University of Macau, Macao;
