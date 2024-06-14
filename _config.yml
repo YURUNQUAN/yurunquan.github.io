@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Runquan Michael YU Website"
 title_separator          : "-"
 name                     : &name "Home"
-description              : &description "Undergraduate Student in Psychology at University of Macau"
+description              : &description "Master's student (Research)   at NUS"
 url                      : "https://yurunquan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YURUNQUAN/yurunquan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Runquan Michael Yu"
   avatar           : "Runquan_Black(B)_White(F).png"
-  bio              : "Master's student (Research) at NUS"
+  bio              : "Master's student (Research)   at NUS"
   location         : "Kent Ridge, Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?user=vE9sKCEAAAAJ&hl=zh-CN"
-  email            :  "SC02303@um.edu.mo"
+  email            :  "runquan@u.nus.edu"
   researchgate     :  "https://www.researchgate.net/profile/Runquan-Yu"
   uri              :
   bitbucket        :
