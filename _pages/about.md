@@ -17,10 +17,10 @@ Currently, he is working on several projects, including (1) social navigation do
 
 **Contact**:\
 Email: runquan@u.nus.edu;\
-Address: Department of Psychology, National University of Singapore, 9 Arts Link, Singapore 117572. 
+Address: [Department of Psychology, National University of Singapore, 9 Arts Link, Singapore 117572](https://www.google.com.hk/maps/place/Psychology+Department/@1.2945751,103.7718346,15z/data=!4m6!3m5!1s0x31da1af92e0c5c6d:0x937bc165ac66047e!8m2!3d1.2945751!4d103.7718346!16s%2Fg%2F11cs6cm596?entry=ttu). 
 
 **Cooperators**:
-- Li, Zhaoning: University of Macau, Macao;
+- Li, Zhaoning: City University of Hong Kong, Hong Kong, China;
   Website: https://zhaoning.li/
 - Wang, Ruien: Queen's University, Canada;
   Website: https://rainneuro.github.io/
