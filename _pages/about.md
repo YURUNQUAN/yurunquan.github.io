@@ -16,8 +16,8 @@ He plans to focus on human behavioral and neural responses (EEG, EGI, fMRI) in s
 Currently, he is working on several projects, including (1) social navigation domains and fMRI scanning, (2) dealing with EEG data from aging Chinese individuals (microstate) to discuss cognitive deficiency, and (3) investigating psychometric quantitative data analysis about anxious individuals' social interactions.
 
 **Contact**:\
-Email: [runquan@u.nus.edu];\
-Address: [Department of Psychology, National University of Singapore, 9 Arts Link, Singapore 117572](https://www.google.com.hk/maps/place/Psychology+Department/@1.2945751,103.7718346,15z/data=!4m6!3m5!1s0x31da1af92e0c5c6d:0x937bc165ac66047e!8m2!3d1.2945751!4d103.7718346!16s%2Fg%2F11cs6cm596?entry=ttu). 
+Email: [runquan@u.nus.edu]\
+Address: [Department of Psychology, National University of Singapore, 9 Arts Link, Singapore](https://www.google.com.hk/maps/place/Psychology+Department/@1.2945751,103.7718346,15z/data=!4m6!3m5!1s0x31da1af92e0c5c6d:0x937bc165ac66047e!8m2!3d1.2945751!4d103.7718346!16s%2Fg%2F11cs6cm596?entry=ttu)
 
 **Cooperators**:
 - Li, Zhaoning: City University of Hong Kong, Hong Kong, China;
