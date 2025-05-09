@@ -9,9 +9,8 @@ redirect_from:
 ---
 Runquan is a Ph.D. student majoring in Psychology at the National University of Singapore. He has been working at the [**Multi-sociocontextual Action and Perception Lab (MAPLAB)**](https://www.oh-lab.com/) directed by [Dr. DongWon OH](https://fass.nus.edu.sg/psy/people/oh-dongwon/) at the [National University of Singapore](https://nus.edu.sg/). During his undergraduate study, he obtained his BSocSc in Psychology at the [University of Macau](https://www.um.edu.mo/). 
 
-He plans to focus on human behavioral and neural responses (EEG, EGI, fMRI) in social scenarios, particularly in individuals with anxiety, depression, loneliness, and multiple personalities. His ultimate goal is to become a researcher and help children and young adults struggling with mental health, especially those in vulnerable communities.
+He plans to focus on human behavioral and physiological responses in social scenarios. 
 
-Currently, he is working on several projects, including (1) social navigation domains and fMRI scanning, (2) dealing with EEG data from aging Chinese individuals (microstate) to discuss cognitive deficiency, and (3) investigating psychometric quantitative data analysis about anxious individuals' social interactions.
 
 **Contact**:\
 Email: [runquan.michael@u.nus.edu](https://mail.google.com/mail/)\
