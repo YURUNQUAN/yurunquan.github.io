@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Department of Psychology, National University of Singapore, 2029 (Planned)
-* B.SocSc Department of Psychology, University of Macau, 2024
+* Ph.D., Department of Psychology, National University of Singapore
+* M.Soc.Sci. (Research), Department of Psychology, National University of Singapore
+* B.SocSc., Department of Psychology, University of Macau, 2024
 
 Award
 ======
